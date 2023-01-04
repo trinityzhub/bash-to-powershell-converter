@@ -1,4 +1,5 @@
 ## !! This is Sample
+## node bash2pwsh.js ./You-can-test-with-this-bash-script/.bash_profile bash_profile.ps1
 
 ## Util
 
